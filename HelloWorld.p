@@ -1,0 +1,1 @@
+MESSAGE "Hello World from SHL" VIEW-AS ALERT-BOX TITLE "Hello World".
