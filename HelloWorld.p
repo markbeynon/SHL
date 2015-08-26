@@ -1,1 +1,3 @@
-MESSAGE "Hello World from SHL" VIEW-AS ALERT-BOX TITLE "Hello World".
+deF var lvcMessage as char init "Hello World from SHL" no-undo.
+
+MESSAGE lvcMessage VIEW-AS ALERT-BOX TITLE "Hello World".
